@@ -1,7 +1,7 @@
 # Animal-Conservation-EcoTourism
 Project title: Eco-Tourism and Wildlife Conservation: Analyzing the Link Between Tourism and Threatened Specie
 ### Project introduction
-This project investigates the relationship between international tourism and the conservation status of threatened species. By analyzing data on tourism arrivals, protected land areas, and the number of threatened bird and mammal species, the project aims to uncover potential correlations and patterns. The core objective is to understand how the growth of the tourism sector may impact wildlife conservation efforts and the populations of vulnerable species. The analysis leverages data from various sources, including the World Development Indicators11.
+This project looks into how foreign travel and the state of vulnerable species conservation are related.  The research intends to find possible links and patterns by examining data on protected land areas, tourism arrivals, and the number of threatened bird and mammal species.  The main goal is to comprehend how wildlife conservation initiatives and the populations of sensitive species may be impacted by the expansion of the tourism industry.  The World Development Indicators11 are one of the several sources of data used in the analysis.
 ### 2. Methodology
 The methodology for this project is primarily based on data cleaning, processing, and analysis using Python. The provided scripts are used to prepare the raw data for analysis:
 •	Data Sources: The project utilizes several datasets, including:
@@ -21,9 +21,9 @@ The project's output, including any statistical analysis, visualizations, or key
 ### 4. Recommendations
 Based on the project's topic and the data being analyzed, the final results would typically lead to recommendations for policymakers, conservation organizations, and tourism agencies. These recommendations could focus on strategies to mitigate the negative impacts of tourism on wildlife, promote sustainable eco-tourism practices, and enhance the effectiveness of protected areas.
 ### 5. Future Work
-Future work on this project could involve:
-•	Expanding Data Sources: Incorporating additional data, such as specific revenue from ecotourism, local community engagement metrics, and data on other threatened animal classes (e.g., reptiles, amphibians).
-•	Advanced Statistical Modeling: Employing more advanced statistical models to establish causal relationships and control for confounding variables, providing a more robust analysis of the link between tourism and species conservation.
-•	Case Studies: Conducting in-depth case studies on specific countries or regions that show a strong positive or negative correlation, to better understand the underlying factors at play.
-•	Interactive Visualizations: Creating interactive dashboards or visualizations to allow stakeholders to explore the data and understand the relationships between different variables.
+Future research on this topic may include: • Increasing Data Sources: Including more data, such as precise ecotourism earnings, measures for local community involvement, and information on other endangered animal classifications (such as amphibians and reptiles).
+ • Advanced Statistical Modeling: By using more sophisticated statistical models to determine causal linkages and account for confounding variables, the relationship between tourism and species conservation can be more thoroughly examined.
+ • Case Studies: To gain a deeper understanding of the underlying factors at work, comprehensive case studies on certain nations or regions that exhibit a strong positive or negative connection are conducted.
+ • Interactive Visualizations: Developing interactive dashboards or visualizations that let interested parties examine the information and comprehend how various factors relate to one another.
+
 
